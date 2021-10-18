@@ -5,7 +5,7 @@
 
 - 🔭 I’m studing **Computer Science**
 
-- 🌱 I’m currently learning **Python with a focus on data science**
+- 🌱 I’m currently learning **Python with focus on data science**
 
 - 🤝 I’m looking for all help with **Python and Web**
 
